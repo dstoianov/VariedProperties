@@ -9,7 +9,7 @@ public class YandexTestProperties implements IEnvironment {
 
   @Property("test.env.url")
   String url;
-
+ 
   @Property("test.user.login")
   String login;
 
